@@ -1,0 +1,19 @@
+# IDE and Editor
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+
+# Dependencies
+node_modules/
+.env
+
+# Build artifacts
+dist/
+build/
+
+# Temporary files
+*.tmp
+*.log
