@@ -2,6 +2,8 @@
 
 Welcome to the **AZ-305 Microsoft Azure Solutions Architect Expert Ninja Training**! This repository is your comprehensive resource for preparing for the AZ-305 certification exam, Microsoft's most advanced Azure certification for solutions architects.
 
+**Maintained by [Cloud360 Training](https://cloud360.co)** - Your trusted partner for Azure certification preparation.
+
 Following the Microsoft Ninja Training format, this guide takes you from architectural fundamentals to expert-level solution design through a carefully structured learning path.
 
 ## 🎯 Training Philosophy
@@ -68,4 +70,10 @@ Before starting AZ-305, you should have:
 * Familiarity with DevOps processes
 
 ---
+## 📚 About Cloud360 Training
+
+**[Cloud360 Training](https://cloud360.co)** provides comprehensive, hands-on training for Microsoft Azure certifications. Our expert instructors and curated learning paths help professionals achieve their certification goals.
+
+**Explore more at [https://cloud360.co](https://cloud360.co)**
+
 *Disclaimer: This repository is an independent study guide and is not officially affiliated with Microsoft. Always refer to the [official Microsoft AZ-305 exam page](https://learn.microsoft.com/en-us/credentials/certifications/exams/az-305/) for the most up-to-date information.*
